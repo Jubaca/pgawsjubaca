@@ -1,0 +1,9 @@
+#Restringe imagenes
+/img
+*.jpg
+*.png
+*.iff
+*.gif
+*.psd
+*.mpg
+*.avi
